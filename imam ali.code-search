@@ -1,0 +1,102 @@
+# Query: imam ali
+# ContextLines: 1
+
+25 results - 1 file
+
+index.html:
+    5  <meta name="viewport" content="width=device-width,initial-scale=1">
+    6: <title>IMAM ALI (AS) FAMILY LIFE Quiz</title>
+    7  
+
+  428    en: {
+  429:     title: "IMAM ALI (AS) FAMILY LIFE Quiz",
+  430      designer: "Designed by Ume Farwa Syeda · DG Skills",
+
+  535  
+  536:  {i:1, q:"حضرت علیؑ کی تاریخِ پیدائش کیا ہے؟ | What is Imam Ali’s (AS) date of birth? | Какова дата рождения Имама Али (мир ему)?",
+  537    o:["7 صفر | 7 Safar | 7 Сафар","13 رجب | 13 Rajab | 13 Раджаб","27 رجب | 27 Rajab | 27 Раджаб","15 شعبان | 15 Sha'ban | 15 Шаабан"],
+
+  539  
+  540:  {i:2, q:"حضرت علیؑ کی پیدائش کہاں ہوئی؟ | Where was Imam Ali (AS) born? | Где родился Имам Али (мир ему)?",
+  541    o:["مدینہ | Madinah | Медина","صفین | Siffin | Сиффин","مکہ — خانہ کعبہ کے اندر | Makkah — inside the Kaaba | Мекка — внутри Каабы","یمن | Yemen | Йемен"],
+
+  543  
+  544:  {i:3, q:"حضرت علیؑ کے والد کا نام کیا تھا؟ | What was the name of Imam Ali’s (AS) father? | Как звали отца Имама Али (мир ему)?",
+  545    o:["حارث | Harith | Харис","عباس | Abbas | Аббас","ابوطالبؑ | Abu Talib (AS) | Абу Талиб (мир ему)","عبداللہ | Abdullah | Абдулла"],
+
+  547  
+  548:  {i:4, q:"حضرت علیؑ کی والدہ کون تھیں؟ | Who was Imam Ali’s (AS) mother? | Кто была матерью Имама Али (мир ему)?",
+  549    o:["آمنہ | Amina | Амина","ہاجرہ | Hajar | Хаджар","فاطمہ بنت اسدؑ | Fatima bint Asad (AS) | Фатима бинт Асад (мир ей)","ام سلمہؑ | Umm Salama (AS) | Умм Салама"],
+
+  551  
+  552:  {i:5, q:"حضرت علیؑ کا مشہور لقب کون سا ہے؟ | Which is a famous title of Imam Ali (AS)? | Какое известное прозвище у Имама Али (мир ему)?",
+  553    o:["صادق | Sadiq | Садик","امین | Amin | Амин","حیدر | Haidar | Хайдар","فاروق | Farooq | Фарук"],
+
+  555  
+  556:  {i:6, q:"حضرت علیؑ کی پہلی اور افضل زوجہ کون تھیں؟ | Who was the first and most virtuous wife of Imam Ali (AS)? | Кто была первой и наилучшей супругой Имама Али (мир ему)?",
+  557    o:["ام البنینؑ | Umm al-Banin (AS) | Умм аль-Банин","خدیجہؑ | Khadija (AS) | Хадиджа","فاطمہ الزہراؑ | Fatima al-Zahra (AS) | Фатима аз-Захра (мир ей)","اسماء بنت عمیسؑ | Asma bint Umays (AS) | Асма бинт Умайс"],
+
+  559  
+  560:  {i:7, q:"حضرت علیؑ کی کنیت کیا تھی؟ | What was Imam Ali’s (AS) kunyah? | Какова кунья Имама Али (мир ему)?",
+  561    o:["ابوالقاسم | Abul Qasim | Абуль-Касим","ابو محمد | Abu Muhammad | Абу Мухаммад","ابوالحسن | Abul Hasan | Абуль-Хасан","ابو یوسف | Abu Yusuf | Абу Юсуф"],
+
+  563  
+  564:  {i:8, q:"حضرت علیؑ اور سیدہ فاطمہؑ کے کتنے بیٹے تھے؟ | How many sons did Imam Ali (AS) and Lady Fatima (AS) have? | Сколько сыновей было у Имама Али и Фатимы (мир им)?",
+  565    o:["دو | Two | Два","تین | Three | Три","چار | Four | Четыре","پانچ | Five | Пять"],
+
+  567  
+  568:  {i:9, q:"حضرت علیؑ کی بیٹیوں کے نام کیا تھے؟ | What were the names of Imam Ali’s (AS) daughters? | Как звали дочерей Имама Али (мир ему)?",
+  569    o:["سکینہؑ | Sakina (AS) | Сакина","زینبؑ اور ام کلثومؑ | Zaynab (AS) and Umm Kulthum (AS) | Зайнаб и Умм Кульсум","صفیہؑ | Safiyya (AS) | Сафийя","فاطمہؑ | Fatima (AS) | Фатима"],
+
+  571  
+  572:  {i:10, q:"حضرت علیؑ کے کل کتنے بیٹے تھے (تمام ازواج سے)؟ | How many sons did Imam Ali (AS) have in total (from all wives)? | Сколько всего сыновей было у Имама Али (мир ему) (от всех жен)?",
+  573    o:["5 | 5 | 5","9 | 9 | 9","11 | 11 | 11","14 | 14 | 14"],
+
+  575  
+  576:  {i:11, q:"حضرت علیؑ کی کل کتنی بیٹیاں تھیں؟ | How many daughters did Imam Ali (AS) have in total? | Сколько всего дочерей было у Имама Али (мир ему)?",
+  577    o:["2 | Two | Две","3 | Three | Три","5 | Five | Пять","7 | Seven | Семь"],
+
+  579  
+  580:  {i:12, q:"حضرت علیؑ کے بعد امامت کس کے پاس گئی؟ | Who received the Imamate after Imam Ali (AS)? | К кому перешло имаматство после Имама Али (мир ему)?",
+  581    o:["محمد بن حنفیہ | Muhammad ibn al-Hanafiyyah | Мухаммад ибн аль-Ханафийя","جعفر طیارؑ | Ja'far al-Tayyar (AS) | Джафар ат-Тайяр","امام حسنؑ | Imam Hasan (AS) | Имам Хасан (мир ему)","عباسؑ | Abbas (AS) | Аббас"],
+
+  583  
+  584:  {i:13, q:"حضرت علیؑ کی شہادت کس شہر میں ہوئی؟ | In which city was Imam Ali (AS) martyred? | В каком городе был убит Имам Али (мир ему)?",
+  585    o:["مدینہ | Madinah | Медина","مکہ | Makkah | Мекка","کوفہ | Kufa | Куфа","بصرہ | Basra | Басра"],
+
+  587  
+  588:  {i:14, q:"حضرت علیؑ کو ضرب کس نے لگائی؟ | Who struck Imam Ali (AS)? | Кто нанес удар Имаму Али (мир ему)?",
+  589    o:["ابن زیاد | Ibn Ziyad | Ибн Зияд","شمر | Shimr | Шимр","عبدالرحمن بن ملجم | Abd al-Rahman ibn Muljam | Абдуррахман ибн Мулджам","معاویہ | Muawiya | Муавия"],
+
+  591  
+  592:  {i:15, q:"حضرت علیؑ کا مزار کہاں واقع ہے؟ | Where is Imam Ali’s (AS) shrine located? | Где находится могила Имама Али (мир ему)?",
+  593    o:["کربلا | Karbala | Кербела","مدینہ | Madinah | Медина","دمشق | Damascus | Дамаск","نجف اشرف | Najaf al-Ashraf | Наджаф аль-Ашраф"],
+
+  595  
+  596:  {i:16, q:"حضرت علیؑ کی شہادت کی تاریخ کیا ہے؟ | What is the date of Imam Ali’s (AS) martyrdom? | Какова дата мученической смерти Имама Али (мир ему)?",
+  597    o:["10 محرم | 10 Muharram | 10 Мухаррам","21 رمضان | 21 Ramadan | 21 Рамадан","15 رجب | 15 Rajab | 15 Раджаб","25 ذی الحجہ | 25 Dhul Hijjah | 25 Зуль-хиджа"],
+
+  599  
+  600:  {i:17, q:"غدیر خم میں رسول اللہ ﷺ نے حضرت علیؑ بارے کیا اعلان فرمایا؟ | What did the Prophet (SAW) declare about Imam Ali (AS) at Ghadir Khumm? | Что объявил Пророк (мир ему) об Имаме Али (мир ему) в Гадир Хумм?",
+  601    o:["علیؑ میرے وزیر ہیں | Ali is my minister | Али — мой министр","علیؑ میرے ساتھی ہیں | Ali is my companion | Али — мой спутник","علیؑ میرے بعد امت کے مولا اور ولی ہیں | Ali is the Mawla and Wali after me | Али — Мауля и Вали после меня","علیؑ بدر میں شریک نہیں تھے | Ali did not participate in Badr | Али не участвовал в Бадре"],
+
+  603  
+  604:  {i:18, q:"حضرت علیؑ نے کون سا معرکہ تنہا فتح کیا؟ | Which battle did Imam Ali (AS) famously conquer (single-handedly)? | Какую битву Имам Али (мир ему) прославленно выиграл (в одиночку)?",
+  605    o:["بدر | Badr | Бадр","خیبر | Khaybar | Хайбар","صفین | Siffin | Сиффин","جمل | Jamal | Джамаль"],
+
+  607  
+  608:  {i:19, q:"کس جنگ میں حضرت علیؑ نے 'ذوالفقار' استعمال کیا؟ | In which battle did Imam Ali (AS) use Dhulfiqar? | В какой битве Имам Али (мир ему) использовал Зульфикар?",
+  609    o:["بدر | Badr | Бадр","احد | Uhud | Ухуд","خیبر | Khaybar | Хайбар","حنین | Hunayn | Хунайн"],
+
+  611  
+  612:  {i:20, q:"شیعہ عقیدے کے مطابق حضرت علیؑ کس درجہ پر فائز ہیں؟ | According to Shia belief, what rank does Imam Ali (AS) hold? | Согласно шиитскому вероучению, какой статус у Имама Али (мир ему)?",
+  613    o:["چوتھے امام | Fourth Imam | Четвертый имам","تیسرے خلیفہ | Third caliph | Третий халиф","پہلے امام | First Imam | Первый имам","پانچویں امام | Fifth Imam | Пятый имам"],
+
+  863  
+  864:   var subject=encodeURIComponent('IMAM ALI (AS) FAMILY LIFE Quiz Result - '+stName);
+  865:   var body='IMAM ALI (AS) FAMILY LIFE Quiz Result%0D%0A%0D%0A'+
+  866             'Name: '+stName+'%0D%0A'+
+
+  873    var waText =
+  874:     'IMAM ALI (AS) FAMILY LIFE Quiz Result%0A%0A' +
+  875      'Name: ' + encodeURIComponent(stName) + '%0A' +
